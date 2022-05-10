@@ -1,1 +1,1 @@
-# roulette-russe
+# roulette russe en python
